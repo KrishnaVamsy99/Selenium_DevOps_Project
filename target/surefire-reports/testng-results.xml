@@ -8,16 +8,16 @@
       <![CDATA[actualResult = Facebook helps you connect and share with the people in your life.]]>
     </line>
   </reporter-output>
-  <suite started-at="2025-08-05T14:49:50 IST" name="regSuite" finished-at="2025-08-05T14:50:25 IST" duration-ms="34329">
+  <suite started-at="2025-08-05T15:35:32 IST" name="regSuite" finished-at="2025-08-05T15:35:43 IST" duration-ms="11288">
     <groups>
     </groups>
-    <test started-at="2025-08-05T14:49:50 IST" name="regTest" finished-at="2025-08-05T14:50:25 IST" duration-ms="34329">
+    <test started-at="2025-08-05T15:35:32 IST" name="regTest" finished-at="2025-08-05T15:35:43 IST" duration-ms="11288">
       <class name="test.BasicValidation">
-        <test-method is-config="true" signature="setup()[pri:0, instance:test.BasicValidation@433defed]" started-at="2025-08-05T14:49:51 IST" name="setup" finished-at="2025-08-05T14:50:19 IST" duration-ms="28303" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.BasicValidation@433defed]" started-at="2025-08-05T15:35:32 IST" name="setup" finished-at="2025-08-05T15:35:42 IST" duration-ms="9757" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="welcomeValidateMessage()[pri:0, instance:test.BasicValidation@433defed]" started-at="2025-08-05T14:50:19 IST" name="welcomeValidateMessage" finished-at="2025-08-05T14:50:21 IST" duration-ms="1553" status="PASS">
+        <test-method signature="welcomeValidateMessage()[pri:0, instance:test.BasicValidation@433defed]" started-at="2025-08-05T15:35:42 IST" name="welcomeValidateMessage" finished-at="2025-08-05T15:35:42 IST" duration-ms="251" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Expected Result = Facebook helps you connect and share with the people in your life.]]>
@@ -27,7 +27,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- welcomeValidateMessage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.BasicValidation@433defed]" started-at="2025-08-05T14:50:22 IST" name="tearDown" finished-at="2025-08-05T14:50:25 IST" duration-ms="2876" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.BasicValidation@433defed]" started-at="2025-08-05T15:35:42 IST" name="tearDown" finished-at="2025-08-05T15:35:43 IST" duration-ms="882" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
